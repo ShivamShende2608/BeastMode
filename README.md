@@ -20,8 +20,7 @@ BeastMode is a powerful workout web application designed to help users achieve t
   - Vite
 - **Utilities**:
   - PostCSS
-- **Development Tools**:
-  - ESLint, Prettier
+
  
 ## Video
 
